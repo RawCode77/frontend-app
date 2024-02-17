@@ -20,7 +20,7 @@
     "vite": "^4.1.0"
   },
   "description": "Frontend App",
-  "main": "index.js",
+  "main": "main.tsx",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RawCode77/frontend-app.git"
